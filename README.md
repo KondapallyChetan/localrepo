@@ -1,4 +1,4 @@
-#This is my local repo
+# This is my local repo
 
-#welcome to my first git repo
+# welcome to my first git repo
 
